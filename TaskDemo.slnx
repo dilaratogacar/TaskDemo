@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Entities/Entities.csproj" Id="44ed6068-4e05-4551-9313-c9130c33d224" />
+  <Project Path="Presentation/Presentation.csproj" Id="c20f86f7-bede-4b4f-9129-5fdb76ee271d" />
+  <Project Path="Repositories/Repositories.csproj" Id="5de29438-7cdb-4ed7-b7af-ca180a25f853" />
+  <Project Path="Services/Services.csproj" Id="cbf9e01b-b322-4c11-9bc1-19550aa8868b" />
+  <Project Path="TaskDemo/TaskDemo.csproj" Id="89c9f7cd-bc0c-42c6-9b1e-62dec321fc4b" />
+</Solution>
